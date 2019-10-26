@@ -1,0 +1,20 @@
+{
+  "name": "tampilkandirilu",
+  "version": "1.0.0",
+  "description": "menampilkan diri lu pake bootstrap biar ganteng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagih/tampilkandirilu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagih/tampilkandirilu/issues"
+  },
+  "homepage": "https://github.com/bagih/tampilkandirilu#readme"
+}
